@@ -1,5 +1,5 @@
-a=100
-b=200
+a=600
+b=800
 if  
     a<b
-print("a is lesser than b")
+    print("a is lesser than b")
